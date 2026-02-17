@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+build/
+.vscode/
+.env
+.env.local
+.DS_Store
+worker/
